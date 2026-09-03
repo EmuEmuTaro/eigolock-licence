@@ -1,6 +1,13 @@
 ---
-title: eigolock-licence
----
+
+## title: データ出典・オープンライセンス
+
+<style>
+.container-lg > h1:first-child {
+  display: none;
+}
+</style>
+
 # データ出典・オープンライセンス
 
 エイゴロックの学習コンテンツの一部は、以下のオープンデータを基に、選定、編集、翻訳その他の加工を行って作成しています。
@@ -9,11 +16,11 @@ title: eigolock-licence
 
 本アプリの英単語データの一部は、Charles Browne、Brent CulliganおよびJoseph Phillipsによる「New General Service List（NGSL 1.2）」を基に作成しています。
 
-**原データ：**  
-[https://www.newgeneralservicelist.com/new-general-service-list](https://www.newgeneralservicelist.com/new-general-service-list)
+**原データ：**
+https://www.newgeneralservicelist.com/new-general-service-list
 
-**ライセンス：Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）**  
-[https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+**ライセンス：Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）**
+https://creativecommons.org/licenses/by-sa/4.0/
 
 本アプリでは、原データからの単語の選定、分類、並べ替え、日本語訳の作成、クイズ形式への変換その他の編集を行っています。
 
@@ -25,18 +32,56 @@ NGSL 1.2を基に作成された本アプリの学習データ部分は、CC BY-
 
 本アプリの英語フレーズデータの一部は、Google LLCが公開する「Taskmaster-1」のうち、`TM-1-2019/woz-dialogs.json`を基に作成しています。
 
-**著作者：**  
+**著作者：**
 Bill Byrne、Karthik Krishnamoorthi、Chinnadhurai Sankar、Arvind Neelakantan、Amit Dubey、Kyu-Young KimおよびAndy Cedilnik（Google LLC）
 
-**原データ：**  
-[https://github.com/google-research-datasets/Taskmaster/tree/master/TM-1-2019](https://github.com/google-research-datasets/Taskmaster/tree/master/TM-1-2019)
+**原データ：**
+https://github.com/google-research-datasets/Taskmaster/tree/master/TM-1-2019
 
-**ライセンス：Creative Commons Attribution 4.0 International（CC BY 4.0）**  
-[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+**ライセンス：Creative Commons Attribution 4.0 International（CC BY 4.0）**
+https://creativecommons.org/licenses/by/4.0/
 
 本アプリでは、原データからの発話の抽出、選定、修正、短文化、日本語訳の作成、クイズ形式への変換その他の編集を行っています。
 
-Taskmaster-1およびその著作者・権利者は、本アプリまたはその運営者を推薦、後援または承認しているものではありません。
+---
+
+## Taskmaster-2
+
+本アプリの英語フレーズデータの一部は、Google LLCが公開する「Taskmaster-2」のうち、`TM-2-2020/data`内の会話データを基に作成しています。
+
+**著作者：**
+Bill Byrne、Karthik Krishnamoorthi、Saravanan Ganesh、Amit Dubey、Kyu-Young KimおよびAndy Cedilnik（Google LLC）
+
+**原データ：**
+https://github.com/google-research-datasets/Taskmaster/tree/master/TM-2-2020
+
+**ライセンス：Creative Commons Attribution 4.0 International（CC BY 4.0）**
+https://creativecommons.org/licenses/by/4.0/
+
+本アプリでは、原データからの発話の抽出、選定、修正、短文化、日本語訳の作成、クイズ形式への変換その他の編集を行っています。
+
+---
+
+## Taskmaster-4
+
+本アプリの英語フレーズデータの一部は、Google LLCが公開する「Taskmaster-4」のうち、`TM-4-2024/data`内の会話データを基に作成しています。
+
+**著作者：**
+Bill ByrneおよびSaravanan Ganesh（Google LLC）
+
+**原データ：**
+https://github.com/google-research-datasets/Taskmaster/tree/master/TM-4-2024
+
+**ライセンス：Creative Commons Attribution 4.0 International（CC BY 4.0）**
+https://creativecommons.org/licenses/by/4.0/
+
+**関連論文：**
+Hakim Sidahmed et al., “Parameter Efficient Reinforcement Learning from Human Feedback,” 2024.
+https://arxiv.org/abs/2403.10704
+
+本アプリでは、原データからの発話の抽出、選定、修正、短文化、日本語訳の作成、クイズ形式への変換その他の編集を行っています。
+
+Taskmaster-1、Taskmaster-2およびTaskmaster-4ならびにこれらの著作者・権利者は、本アプリまたはその運営者を推薦、後援または承認しているものではありません。
 
 ---
 
@@ -44,15 +89,15 @@ Taskmaster-1およびその著作者・権利者は、本アプリまたはそ�
 
 本アプリの英語フレーズデータの一部は、Googleが公開する「ConTrack: Context Tracking Dataset」を基に作成しています。
 
-**原データ：**  
-[https://github.com/google-research-datasets/contrack](https://github.com/google-research-datasets/contrack)
+**原データ：**
+https://github.com/google-research-datasets/contrack
 
-**ライセンス：Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）**  
-[https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+**ライセンス：Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）**
+https://creativecommons.org/licenses/by-sa/4.0/
 
-**関連論文：**  
-Ulrich Rückert, Srinivas Sunkara, Abhinav Rastogi, Sushant Prakash and Pranav Khaitan, “A Unified Approach to Entity-Centric Context Tracking in Social Conversations,” 2022.  
-[https://arxiv.org/abs/2201.12409](https://arxiv.org/abs/2201.12409)
+**関連論文：**
+Ulrich Rückert, Srinivas Sunkara, Abhinav Rastogi, Sushant Prakash and Pranav Khaitan, “A Unified Approach to Entity-Centric Context Tracking in Social Conversations,” 2022.
+https://arxiv.org/abs/2201.12409
 
 本アプリでは、原データからの発話の抽出、選定、修正、短文化、日本語訳の作成、クイズ形式への変換その他の編集を行っています。
 
