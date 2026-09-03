@@ -1,6 +1,6 @@
 ---
-
-## title: データ出典・オープンライセンス
+title: "データ出典・オープンライセンス"
+---
 
 <style>
 .container-lg > h1:first-child {
