@@ -1,5 +1,5 @@
 ---
-title: データ出典・オープンライセンス
+title: eigolock-licence
 ---
 # データ出典・オープンライセンス
 
